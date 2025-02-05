@@ -53,13 +53,7 @@
         </dependency>
 
     </dependencies>
-    <repositories>
-        <repository>
-            <id>github</id>
-            <name>GitHub FEIBRO788 Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
-        </repository>
-    </repositories>
+
 
     <build>
         <plugins>
