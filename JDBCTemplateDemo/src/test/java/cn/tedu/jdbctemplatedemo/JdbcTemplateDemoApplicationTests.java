@@ -54,7 +54,7 @@ class JdbcTemplateDemoApplicationTests {
         Long l = jdbcTemplate.queryForObject(sql, long.class);
         //Long.class：指定返回结果的类型为Long
         System.out.println(l);
-        
+
 
 
     }
